@@ -1,0 +1,34 @@
+[
+  {
+    "character": "batman",
+    "editorial": "dc"
+  },
+  {
+    "character": "superman",
+    "editorial": "dc"
+  },
+  {
+    "character": "flash",
+    "editorial": "dc"
+  },
+  {
+    "character": "aquaman",
+    "editorial": "dc"
+  },
+  {
+    "character": "ironman",
+    "editorial": "marvel"
+  },
+  {
+    "character": "thor",
+    "editorial": "marvel"
+  },
+  {
+    "character": "hulk",
+    "editorial": "marvel"
+  },
+  {
+    "character": "vision",
+    "editorial": "marvel"
+  }
+]
